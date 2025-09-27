@@ -47,3 +47,6 @@ A table component to display tabular data with basic functionality.
 git clone https://github.com/upadhyay03/my-components.git
 cd my-components
 npm install
+
+## 📖 Storybook
+Live Preview: [View on Chromatic](https://68d82ba2b119400abed54bf6-ucydutfivc.chromatic.com/)
